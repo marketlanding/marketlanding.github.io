@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ok-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M27.5217265,29.2743226 L23.0647401,24.91019 C22.5726795,24.4283807 22.5726795,23.6472134 23.0647401,23.1654041 C23.5568007,22.6835948 24.3545885,22.6835948 24.8466491,23.1654041 L27.5217265,25.7847508 L35.5403171,17.9332142 C36.0323777,17.4514049 36.8301655,17.4514049 37.3222261,17.9332142 C37.8142867,18.4150235 37.8142867,19.1961908 37.3222261,19.6780001 L27.5217265,29.2743226 Z" id="path-1"></path>
+    </defs>
+    <g id="ok-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-23" transform="translate(-13.000000, -6.000000)">
+            <g id="Group">
+                <circle id="Oval-Copy-3" fill-opacity="0.0599999949" fill="#000000" cx="29.5" cy="22.5" r="14.5"></circle>
+                <g id="icon/input/check-large">
+                    <g id="icon/input/-none"></g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill-opacity="0" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="color/green" mask="url(#mask-2)" fill="#50BD5C" fill-rule="evenodd">
+                        <rect id="Rectangle-12" x="0" y="0" width="59.9999974" height="46.999998"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

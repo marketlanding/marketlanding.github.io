@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/exit_small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/exit_small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle-3" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="27" height="27"></rect>
+            <path d="M14.2071068,13.5 L19.1568542,18.4497475 L18.4497475,19.1568542 L13.5,14.2071068 L8.55025253,19.1568542 L7.84314575,18.4497475 L12.7928932,13.5 L7.84314575,8.55025253 L8.55025253,7.84314575 L13.5,12.7928932 L18.4497475,7.84314575 L19.1568542,8.55025253 L14.2071068,13.5 Z M13.5,26 C6.59644063,26 1,20.4035594 1,13.5 C1,6.59644063 6.59644063,1 13.5,1 C20.4035594,1 26,6.59644063 26,13.5 C26,20.4035594 20.4035594,26 13.5,26 Z M13.5,25 C19.8512746,25 25,19.8512746 25,13.5 C25,7.14872538 19.8512746,2 13.5,2 C7.14872538,2 2,7.14872538 2,13.5 C2,19.8512746 7.14872538,25 13.5,25 Z" id="Combined-Shape" fill-opacity="1" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

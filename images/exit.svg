@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/exit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.2071068,19.5 L25.863961,25.1568542 L25.1568542,25.863961 L19.5,20.2071068 L13.8431458,25.863961 L13.136039,25.1568542 L18.7928932,19.5 L13.136039,13.8431458 L13.8431458,13.136039 L19.5,18.7928932 L25.1568542,13.136039 L25.863961,13.8431458 L20.2071068,19.5 Z M19.5,38 C9.28273213,38 1,29.7172679 1,19.5 C1,9.28273213 9.28273213,1 19.5,1 C29.7172679,1 38,9.28273213 38,19.5 C38,29.7172679 29.7172679,38 19.5,38 Z M19.5,37 C29.1649831,37 37,29.1649831 37,19.5 C37,9.83501688 29.1649831,2 19.5,2 C9.83501688,2 2,9.83501688 2,19.5 C2,29.1649831 9.83501688,37 19.5,37 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/exit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle-3" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="39" height="39"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill-opacity="1" fill="#000000" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

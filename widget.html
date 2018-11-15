@@ -1,0 +1,42 @@
+<!DOCTYPE html><html class="no-js" lang="ru"></html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0"><title>ArsenalPay – оплачивайте услуги в одном месте онлайн</title></head><body><div id="arsenalpay-widget"></div><script>var search = location.search.substring(1);
+    var obj = JSON.parse('{"' + decodeURI(search).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g, '":"') + '"}');
+    
+    
+    if (obj && Number(obj.widget) === 16) {
+      document.write('<script id="arsenalpay-widget-script" type="text/javascript" src="https://arsenalpay.ru/widget/components/script.js"></'+'script>');
+    } else {
+      document.write('<script id="arsenalpay-widget-script" type="text/javascript" src="https://arsenalpay.ru/widget/script.js"></'+'script>');
+    }</script><script>if (obj && obj.widget) {
+      var destination = obj.destination || '',
+        amount = obj.amount || '',
+        nonce = obj.nonce || '',
+        userId = obj.userId || '',
+        widgetSign = obj.widgetSign || '';
+    
+    
+      var w = new ArsenalpayWidget();
+      w.widget = obj.widget;
+      w.element = "arsenalpay-widget";
+    
+      if (destination) {
+        w.destination = destination;
+      }
+    
+      if (amount) {
+        w.amount = amount;
+      }
+    
+      if (nonce) {
+        w.nonce = nonce;
+      }
+    
+      if (userId) {
+        w.userId = userId;
+      }
+    
+      if (widgetSign) {
+        w.widgetSign = widgetSign;
+      }
+    
+      w.render();
+    }</script></body>
