@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="59px" viewBox="0 0 59 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>payments_distribution</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-24.5%" y="-13.8%" width="148.9%" height="148.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.129500679 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="новая_главная" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-670.000000, -970.000000)">
+        <g id="Group-16" transform="translate(162.000000, 939.000000)">
+            <g id="payments_distribution" filter="url(#filter-1)" transform="translate(514.000000, 32.000000)">
+                <circle id="Oval-3-Copy-3" fill="#F2EEE8" cx="23.5" cy="23.5" r="23.5"></circle>
+                <g id="Group-10" transform="translate(13.160000, 13.160000)" fill="#8A97E2">
+                    <path d="M14.4133333,6.89333333 L18.4866667,6.89333333 C19.0058143,6.89333333 19.4266667,7.31418567 19.4266667,7.83333333 C19.4266667,8.352481 19.0058143,8.77333333 18.4866667,8.77333333 L12.5333333,8.77333333 L12.5333333,6.89333333 L12.5333333,2.82 C12.5333333,2.30085234 12.9541857,1.88 13.4733333,1.88 C13.992481,1.88 14.4133333,2.30085234 14.4133333,2.82 L14.4133333,6.89333333 Z" id="Combined-Shape" transform="translate(15.980000, 5.326667) scale(-1, 1) rotate(45.000000) translate(-15.980000, -5.326667) "></path>
+                    <path d="M3.76,16.92 L7.83333333,16.92 C8.352481,16.92 8.77333333,17.3408523 8.77333333,17.86 C8.77333333,18.3791477 8.352481,18.8 7.83333333,18.8 L1.88,18.8 L1.88,16.92 L1.88,12.8466667 C1.88,12.327519 2.30085234,11.9066667 2.82,11.9066667 C3.33914766,11.9066667 3.76,12.327519 3.76,12.8466667 L3.76,16.92 Z" id="Combined-Shape-Copy" transform="translate(5.326667, 15.353333) rotate(45.000000) translate(-5.326667, -15.353333) "></path>
+                    <rect id="Rectangle-17" x="2.50666667" y="4.38666667" width="15.6666667" height="1.88" rx="0.94"></rect>
+                    <rect id="Rectangle-17-Copy" x="2.50666667" y="14.4133333" width="15.6666667" height="1.88" rx="0.94"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

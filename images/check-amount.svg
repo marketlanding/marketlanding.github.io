@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="60px" viewBox="0 0 52 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>check-amount</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="кассы-360" transform="translate(-30.000000, -1574.000000)">
+            <g id="Group-13-Copy" transform="translate(20.000000, 1564.000000)">
+                <g id="check-amount" transform="translate(10.000000, 10.000000)">
+                    <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="0" width="52" height="60" rx="6"></rect>
+                    <path d="M15.5,12 L36.5,12 C37.3284271,12 38,12.6715729 38,13.5 C38,14.3284271 37.3284271,15 36.5,15 L15.5,15 C14.6715729,15 14,14.3284271 14,13.5 C14,12.6715729 14.6715729,12 15.5,12 Z M7.5,29 L28.5,29 C29.3284271,29 30,29.6715729 30,30.5 C30,31.3284271 29.3284271,32 28.5,32 L7.5,32 C6.67157288,32 6,31.3284271 6,30.5 C6,29.6715729 6.67157288,29 7.5,29 Z M7.5,38 L28.5,38 C29.3284271,38 30,38.6715729 30,39.5 C30,40.3284271 29.3284271,41 28.5,41 L7.5,41 C6.67157288,41 6,40.3284271 6,39.5 C6,38.6715729 6.67157288,38 7.5,38 Z" id="Combined-Shape" fill="#D8D8D8"></path>
+                    <path d="M37.5,29 L44.5,29 C45.3284271,29 46,29.6715729 46,30.5 C46,31.3284271 45.3284271,32 44.5,32 L37.5,32 C36.6715729,32 36,31.3284271 36,30.5 C36,29.6715729 36.6715729,29 37.5,29 Z M37.5,38 L44.5,38 C45.3284271,38 46,38.6715729 46,39.5 C46,40.3284271 45.3284271,41 44.5,41 L37.5,41 C36.6715729,41 36,40.3284271 36,39.5 C36,38.6715729 36.6715729,38 37.5,38 Z" id="Combined-Shape" fill="#FE7D72"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

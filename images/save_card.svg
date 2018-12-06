@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="59px" viewBox="0 0 59 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>save_card</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-24.5%" y="-13.8%" width="148.9%" height="148.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.129500679 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="новая_главная" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-240.000000, -970.000000)">
+        <g id="Group-16" transform="translate(162.000000, 939.000000)">
+            <g id="save_card" filter="url(#filter-1)" transform="translate(84.000000, 32.000000)">
+                <circle id="Oval-3-Copy" fill="#F2EEE8" cx="23.5" cy="23.5" r="23.5"></circle>
+                <g id="Group-12" transform="translate(6.893333, 15.666667)">
+                    <g id="Group-11" transform="translate(5.013333, 0.000000)">
+                        <rect id="Rectangle-3" fill="#A5CE8F" x="0" y="0" width="23.1866667" height="15.6666667" rx="1.88999992"></rect>
+                        <rect id="Rectangle-2" fill="#60A837" x="0" y="3.76" width="23.1866667" height="3.13333333"></rect>
+                    </g>
+                    <g id="Group-5" transform="translate(0.000000, 8.146667)">
+                        <circle id="Oval-5" fill="#F75F52" cx="6.89333333" cy="6.89333333" r="6.89333333"></circle>
+                        <path d="M5.01333333,6.89333333 L10.0266667,6.89333333 L10.0266667,8.77333333 L3.13333333,8.77333333 L3.13333333,6.89333333 L3.13333333,3.76 L5.01333333,3.76 L5.01333333,6.89333333 Z" id="Combined-Shape" fill="#F2EEE8" transform="translate(6.580000, 6.266667) rotate(-45.000000) translate(-6.580000, -6.266667) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /old/
+Disallow: /payframe/
+Disallow: /testframe/
+Disallow: /userframesecure-mk/
+Disallow: /pay/
+Disallow: /p2p_info.html
+Disallow: /p2p_activate.html
+Host: https://arsenalpay.ru
+Sitemap: http://arsenalpay.ru/sitemap.xml
